@@ -1,4 +1,4 @@
-# lesson3.1
+# SerialList
 
 > A Vue.js project
 
